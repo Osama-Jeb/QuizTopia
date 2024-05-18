@@ -1,0 +1,212 @@
+{
+    "topics": {
+        "geology": {
+            "questions": [
+                {
+                    "question": "What is the hardest mineral on the Mohs scale?",
+                    "answers": {
+                        "a": "quartz",
+                        "b": "diamond",
+                        "c": "feldspar",
+                        "d": "calcite"
+                    },
+                    "correct_answer": "b"
+                },
+                {
+                    "question": "Which type of rock is formed from cooled magma?",
+                    "answers": {
+                        "a": "sedimentary",
+                        "b": "igneous",
+                        "c": "metamorphic",
+                        "d": "volcanic"
+                    },
+                    "correct_answer": "b"
+                },
+                {
+                    "question": "What is the process by which rocks are broken down into smaller pieces called?",
+                    "answers": {
+                        "a": "erosion",
+                        "b": "weathering",
+                        "c": "deposition",
+                        "d": "crystallization"
+                    },
+                    "correct_answer": "b"
+                },
+                {
+                    "question": "What causes earthquakes?",
+                    "answers": {
+                        "a": "wind",
+                        "b": "volcanic eruptions",
+                        "c": "movement of tectonic plates",
+                        "d": "rainfall"
+                    },
+                    "correct_answer": "c"
+                },
+                {
+                    "question": "What type of rock is marble?",
+                    "answers": {
+                        "a": "igneous",
+                        "b": "sedimentary",
+                        "c": "metamorphic",
+                        "d": "volcanic"
+                    },
+                    "correct_answer": "c"
+                },
+                {
+                    "question": "What is the study of fossils called?",
+                    "answers": {
+                        "a": "geology",
+                        "b": "meteorology",
+                        "c": "paleontology",
+                        "d": "astronomy"
+                    },
+                    "correct_answer": "c"
+                },
+                {
+                    "question": "What is the chemical formula for water?",
+                    "answers": {
+                        "a": "H2O2",
+                        "b": "CO2",
+                        "c": "H2O",
+                        "d": "O2"
+                    },
+                    "correct_answer": "c"
+                },
+                {
+                    "question": "What is the outermost layer of the Earth called?",
+                    "answers": {
+                        "a": "mantle",
+                        "b": "core",
+                        "c": "crust",
+                        "d": "asthenosphere"
+                    },
+                    "correct_answer": "c"
+                },
+                {
+                    "question": "What is the most abundant gas in Earth's atmosphere?",
+                    "answers": {
+                        "a": "oxygen",
+                        "b": "nitrogen",
+                        "c": "carbon dioxide",
+                        "d": "argon"
+                    },
+                    "correct_answer": "b"
+                },
+                {
+                    "question": "What is the deepest known point in Earth's oceans?",
+                    "answers": {
+                        "a": "Puerto Rico Trench",
+                        "b": "Sunda Trench",
+                        "c": "Mariana Trench",
+                        "d": "Java Trench"
+                    },
+                    "correct_answer": "c"
+                }
+            ]
+        },
+        "math": {
+            "questions": [
+                {
+                    "question": "What is 2 + 2?",
+                    "answers": {
+                        "a": "3",
+                        "b": "5",
+                        "c": "4",
+                        "d": "6"
+                    },
+                    "correct_answer": "c"
+                },
+                {
+                    "question": "What is the value of π (pi) to two decimal places?",
+                    "answers": {
+                        "a": "3.12",
+                        "b": "3.15",
+                        "c": "3.14",
+                        "d": "3.17"
+                    },
+                    "correct_answer": "c"
+                },
+                {
+                    "question": "What is the square root of 144?",
+                    "answers": {
+                        "a": "10",
+                        "b": "12",
+                        "c": "14",
+                        "d": "16"
+                    },
+                    "correct_answer": "b"
+                },
+                {
+                    "question": "What is the formula for the area of a rectangle?",
+                    "answers": {
+                        "a": "length × width",
+                        "b": "πr^2",
+                        "c": "2πr",
+                        "d": "length × height"
+                    },
+                    "correct_answer": "a"
+                },
+                {
+                    "question": "What is the next number in the Fibonacci sequence: 0, 1, 1, 2, 3, 5, ___?",
+                    "answers": {
+                        "a": "7",
+                        "b": "8",
+                        "c": "9",
+                        "d": "10"
+                    },
+                    "correct_answer": "b"
+                },
+                {
+                    "question": "What is the value of 10 factorial (10!)?",
+                    "answers": {
+                        "a": "362880",
+                        "b": "3628800",
+                        "c": "39916800",
+                        "d": "36288000"
+                    },
+                    "correct_answer": "b"
+                },
+                {
+                    "question": "What is the formula for the circumference of a circle?",
+                    "answers": {
+                        "a": "πd",
+                        "b": "2πr",
+                        "c": "πr^2",
+                        "d": "π/2r"
+                    },
+                    "correct_answer": "b"
+                },
+                {
+                    "question": "What is the sum of the interior angles of a triangle?",
+                    "answers": {
+                        "a": "90 degrees",
+                        "b": "120 degrees",
+                        "c": "180 degrees",
+                        "d": "360 degrees"
+                    },
+                    "correct_answer": "c"
+                },
+                {
+                    "question": "What is the derivative of x^2 with respect to x?",
+                    "answers": {
+                        "a": "2x",
+                        "b": "x^2",
+                        "c": "x^3",
+                        "d": "2"
+                    },
+                    "correct_answer": "a"
+                },
+                {
+                    "question": "What is the value of log10(100)?",
+                    "answers": {
+                        "a": "1",
+                        "b": "2",
+                        "c": "10",
+                        "d": "100"
+                    },
+                    "correct_answer": "b"
+                }
+            ]
+        }
+    }
+}
